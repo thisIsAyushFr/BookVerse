@@ -85,6 +85,3 @@ Then register or log in via `auth/register.html` / `auth/login.html` to access t
 
 This is a fork of [AgrimJoshi1/BookVerse](https://github.com/AgrimJoshi1/BookVerse).
 
-## License
-
-Add a license here if applicable.
